@@ -1,6 +1,6 @@
-# Project Name
+# Read Me Collaboration!!!
 
-TODO: Write a project description
+My name is Nikolai Meijer, I have lived in London for the majority of my life. I am 17 years old, turning 18 on October 7. I really enjoy design and fashion. I like cars but I cannot afford one right now. My dream car is a Lexus sc400 from 1995 or most old Subaru rally cars.
 
 ## Installation
 
